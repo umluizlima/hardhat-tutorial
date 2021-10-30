@@ -9,7 +9,7 @@ const ALCHEMY_API_KEY = "KEY";
 // go to Account Details > Export Private Key
 // Be aware of NEVER putting real Ether into testing accounts
 // Get ETH for the test deployment from Ropsten's faucet: https://faucet.ropsten.be/
-const ROPSTEN_PRIVATE_KEY = "YOUR ROPSTEN PRIVATE KEY";
+const ROPSTEN_PRIVATE_KEY = "123456";
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
