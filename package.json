@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/umluizlima/hardhat-tutorial/issues"
   },
-  "homepage": "https://github.com/umluizlima/hardhat-tutorial#readme"
+  "homepage": "https://github.com/umluizlima/hardhat-tutorial#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.7"
+  }
 }
